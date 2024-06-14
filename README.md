@@ -23,3 +23,6 @@ The Task Management System API is a robust solution designed to streamline task 
 - *Angular CLI*: Latest version recommended.
 
 
+![image_720](https://github.com/tebernal/Task-Management-System-FrontEnd/assets/162180112/2f28486e-bfb1-404d-acf3-cb22130595aa)
+![image_720](https://github.com/tebernal/Task-Management-System-FrontEnd/assets/162180112/87db1a3c-dc52-4616-b022-d3b0072f2cb1)
+![image_720](https://github.com/tebernal/Task-Management-System-FrontEnd/assets/162180112/ea676e15-9319-4bfe-ad38-dce4d76cd4c8)
